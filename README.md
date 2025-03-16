@@ -28,6 +28,7 @@ Python | File Handling | CSV Manipulation | Email Automation | Random Module | S
     ```bash  
    python app.py
 
+```
 ## File Structure:
 project-folder/
 |
@@ -38,6 +39,7 @@ project-folder/
 │   ├── letter_2.txt
 │   ├── letter_3.txt
 ├── README.md             # Project documentation
+```
 
 **Created by Pranjal Sarnaik**  
 *Released under the MIT License*
